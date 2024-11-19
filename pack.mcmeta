@@ -1,6 +1,7 @@
 {
     "pack": {
-        "pack_format": 15,
-        "description": "Add more crafting recipes for create mod. Made by justablock."
+        "pack_format": 57,
+        "description": "Add more crafting recipes for create mod. Made by justablock and doppel_r_dwr.",
+        "supported_formats": [8, 57]
     }
 }
