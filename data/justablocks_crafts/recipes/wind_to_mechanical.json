@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "create:windmill_bearing"
+        },
+        {
+            "item": "create:andesite_casing"
+        }
+    ],
+    "result": {
+        "item": "create:mechanical_bearing"
+    }
+  }

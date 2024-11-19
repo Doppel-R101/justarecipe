@@ -1,0 +1,14 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+        {
+            "item": "minecraft:jungle_log"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:stripped_jungle_log",
+            "count": 1
+        }
+    ]
+}

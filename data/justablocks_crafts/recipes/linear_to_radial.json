@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "create:linear_chassis"
+        },
+        {
+            "item": "minecraft:stick"
+        }
+    ],
+    "result": {
+        "item": "create:radial_chassis"
+    }
+  }

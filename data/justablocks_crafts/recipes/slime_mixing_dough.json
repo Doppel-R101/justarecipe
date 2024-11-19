@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "create:dough"
+        },
+        {
+            "item": "minecraft:sugar_cane"
+        },
+        {
+            "fluid": "minecraft:water",
+            "amount": 250
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:slime_ball",
+            "count": 1
+        }
+    ]
+}

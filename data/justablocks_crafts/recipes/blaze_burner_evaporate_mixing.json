@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "create:blaze_burner"
+        },
+        {
+            "fluid": "minecraft:water",
+            "amount": 1000
+        }
+    ],
+    "results": [
+        {
+            "item": "create:empty_blaze_burner",
+            "count": 1
+        }
+    ]
+}

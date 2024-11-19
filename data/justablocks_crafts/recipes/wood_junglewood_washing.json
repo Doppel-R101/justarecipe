@@ -1,0 +1,14 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+        {
+            "item": "minecraft:jungle_wood"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:stripped_jungle_wood",
+            "count": 1
+        }
+    ]
+}

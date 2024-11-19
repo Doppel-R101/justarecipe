@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "farmersdelight:onion"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:crying_obsidian",
+      "count": 1
+    }
+  ]
+}

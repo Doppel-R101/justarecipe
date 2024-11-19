@@ -1,0 +1,20 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:golden_carrot"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:carrot",
+            "count": 1
+        },
+        {
+            "item": "minecraft:gold_ingot",
+            "count": 1,
+            "chance": 0.7
+        }
+    ],
+    "heatRequirement": "heated"
+}

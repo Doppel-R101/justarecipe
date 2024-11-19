@@ -1,0 +1,17 @@
+{
+  "type": "create_mechanical_extruder:extruding",
+  "ingredients": [
+
+    {
+      "fluid": "minecraft:lava",
+      "amount": 1
+    },
+    {
+      "fluid": "create:honey",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "item": "create:limestone"
+  }
+}

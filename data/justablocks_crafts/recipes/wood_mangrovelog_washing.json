@@ -1,0 +1,14 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+        {
+            "item": "minecraft:mangrove_log"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:stripped_mangrove_log",
+            "count": 1
+        }
+    ]
+}

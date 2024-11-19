@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_cream"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:blaze_powder",
+      "count": 2
+    }
+  ]
+}
