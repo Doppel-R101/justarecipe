@@ -1,0 +1,14 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+        {
+            "item": "minecraft:oak_wood"
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:stripped_oak_wood",
+            "count": 1
+        }
+    ]
+}

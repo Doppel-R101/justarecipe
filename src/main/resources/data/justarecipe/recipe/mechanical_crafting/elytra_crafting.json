@@ -1,0 +1,35 @@
+{
+    "type": "create:mechanical_crafting",
+    "accept_mirrored": true,
+    "pattern": [
+        " CCC ",
+        "QLGLQ",
+        "QGDGQ",
+        "QLFLQ",
+        " CCC "
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "C": {
+            "item": "create:brass_casing"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        },
+        "F": {
+            "item": "create:encased_fan"
+        }
+    },
+    "result":{
+        "id": "minecraft:elytra",
+        "count": 1
+    }
+}

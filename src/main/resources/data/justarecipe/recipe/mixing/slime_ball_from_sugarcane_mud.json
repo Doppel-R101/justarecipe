@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:mud"
+        },
+        {
+            "item": "minecraft:sugar_cane"
+        },
+        {
+            "fluid": "minecraft:water",
+            "type": "fluid_stack",
+            "amount": 250
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:slime_ball",
+            "count": 1
+        }
+    ]
+}

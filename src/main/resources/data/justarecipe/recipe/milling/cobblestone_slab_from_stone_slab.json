@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "processing_time": 200,
+    "ingredients": [
+        {
+            "item": "minecraft:stone_slab"
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:cobblestone_slab",
+            "count": 1
+        }
+    ]
+}

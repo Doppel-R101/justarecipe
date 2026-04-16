@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "create:dough"
+        },
+        {
+            "item": "minecraft:lime_dye"
+        },
+        {
+            "fluid": "minecraft:water",
+            "type": "fluid_stack",
+            "amount": 250
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:slime_ball",
+            "count": 1
+        }
+    ]
+}

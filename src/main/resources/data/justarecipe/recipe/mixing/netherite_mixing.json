@@ -1,0 +1,39 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:netherrack"
+        },
+        {
+            "item": "minecraft:nether_bricks"
+        },
+        {
+            "item": "create:andesite_alloy"
+        },
+        {
+            "item": "minecraft:quartz"
+        },
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        {
+            "item": "create:powdered_obsidian"
+        },
+        {
+            "item": "create:sturdy_sheet"
+        },
+        {
+            "fluid": "minecraft:lava",
+            "type": "fluid_stack",
+            "amount": 500
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:netherite_ingot",
+            "count": 1,
+            "chance": 0.75
+        }
+    ],
+    "heat_requirement": "superheated"
+}
