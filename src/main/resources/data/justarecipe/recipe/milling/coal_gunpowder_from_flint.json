@@ -8,12 +8,12 @@
     ],
     "results": [
         {
-            "id": "minecraft:coal",
+            "item": "minecraft:coal",
             "count": 1,
             "chance": 0.85
         },
         {
-            "id": "minecraft:gunpowder",
+            "item": "minecraft:gunpowder",
             "count": 1,
             "chance": 0.2
         }

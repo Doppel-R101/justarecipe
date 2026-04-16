@@ -8,7 +8,7 @@
   ],
   "results": [
     {
-      "id": "minecraft:lime_dye",
+      "item": "minecraft:lime_dye",
       "count": 1,
       "chance": 0.25
     }

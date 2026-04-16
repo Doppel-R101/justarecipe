@@ -4,7 +4,7 @@
         "item": "minecraft:cobblestone_slab"
     },
     "result": {
-        "id": "minecraft:stone_slab"
+        "item": "minecraft:stone_slab"
     },
     "experience": 0.2,
     "cookingtime": 200

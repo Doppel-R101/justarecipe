@@ -8,11 +8,11 @@
     ],
     "results": [
         {
-            "id": "minecraft:carrot",
+            "item": "minecraft:carrot",
             "count": 1
         },
         {
-            "id": "minecraft:gold_ingot",
+            "item": "minecraft:gold_ingot",
             "count": 1,
             "chance": 0.7
         }

@@ -9,13 +9,12 @@
         },
         {
             "fluid": "minecraft:lava",
-            "type": "fluid_stack",
             "amount": 1000
         }
     ],
     "results": [
         {
-            "id": "create:blaze_burner",
+            "item": "create:blaze_burner",
             "count": 2
         }
     ]

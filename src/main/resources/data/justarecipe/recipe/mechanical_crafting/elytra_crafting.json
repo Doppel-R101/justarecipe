@@ -29,7 +29,7 @@
         }
     },
     "result":{
-        "id": "minecraft:elytra",
+        "item": "minecraft:elytra",
         "count": 1
     }
 }

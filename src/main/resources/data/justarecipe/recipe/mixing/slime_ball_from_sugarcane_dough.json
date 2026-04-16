@@ -9,13 +9,12 @@
         },
         {
             "fluid": "minecraft:water",
-            "type": "fluid_stack",
             "amount": 250
         }
     ],
     "results": [
         {
-            "id": "minecraft:slime_ball",
+            "item": "minecraft:slime_ball",
             "count": 1
         }
     ]

@@ -4,7 +4,7 @@
         "item": "minecraft:stone_slab"
     },
     "result": {
-        "id": "minecraft:smooth_stone_slab"
+        "item": "minecraft:smooth_stone_slab"
     },
     "experience": 0.2,
     "cookingtime": 200
